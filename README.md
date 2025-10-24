@@ -1,4 +1,33 @@
 # portf
+style.css
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+header, footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+section {
+  margin: 40px;
+}
+
+h1, h2 {
+  color: #0078d7;
+}
+
+a {
+  color: #0078d7;
+  text-decoration: none;
+}
+
 index.html
 <!DOCTYPE html>
 <html lang="en">
