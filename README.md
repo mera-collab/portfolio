@@ -10,34 +10,35 @@ index.html
 </head>
 <body>
   <header>
-    <h1>Hi, I'm [Your Name]</h1>
+    <h1>Hi, I'm John Mee</h1>
     <p>Web Developer | Designer | Coder</p>
   </header>
 
   <section id="about">
     <h2>About Me</h2>
-    <p>Write a short paragraph about yourself, your skills, and your goals.</p>
+    <p>I like coding,reading novels,bible and swimming</p>
   </section>
 
   <section id="projects">
     <h2>Projects</h2>
     <div class="project">
       <h3>Project 1</h3>
-      <p>Description of your first project.</p>
+      <p>First website for a football team.</p>
+      <img src="C:\Users\CARDX LTD\Desktop\portf\Better FC Logo with Stars and Football Icon12.png alt="Better FC logo with stars and football icon 12" width="300" height="200">
     </div>
     <div class="project">
       <h3>Project 2</h3>
-      <p>Description of your second project.</p>
+      <p>Taught on how to create a website.</p>
     </div>
   </section>
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: <a href="mailto:yourname@email.com">yourname@email.com</a></p>
+    <p>Email: <a href="mailto:johnmee@email.com">johnmee@email.com</a></p>
   </section>
 
   <footer>
-    <p>© 2025 Your Name. All rights reserved.</p>
+    <p>© 2025 John Mee. All rights reserved.</p>
   </footer>
 </body>
 </html>
